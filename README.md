@@ -1,5 +1,22 @@
-# Harvest Hope NPO - WEDE5020 Part 2
+# Harvest Hope NPO - WEDE5020 
 Student: RAMAWELA PHETOLE ST10471684
+
+# Harvest Hope NPO - WEDE5020 Part 1
+
+## Overview
+Community garden NPO website
+
+## Sitemap
+index -> about -> services -> enquiry -> contact
+
+## Changelog
+2025-08-01 feat: initial HTML structure with semantic tags
+2025-08-13 docs: added proposals and content research
+
+## References
+Unsplash, Pexels, Google Fonts Fraunces` + Manrope, MDN
+
+# Harvest Hope NPO - WEDE5020 Part 2
 
 ## Part 2 Changes
 - Created external stylesheet css/style.css (14KB)
